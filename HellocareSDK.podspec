@@ -8,7 +8,7 @@ s.summary = "HellocareSDK."
 s.requires_arc = true
 
 # 2
-s.version = "1.0.2"
+s.version = "1.0.3"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Hellocare" => "support@hellocare.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/razmigsarkissian/HellocareSDKBeta"
+s.homepage = "https://github.com/hellocaredev/direct-sdk-ios"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source           = { :http => "https://github.com/razmigsarkissian/HellocareSDKBeta/releases/download/1.0.2/HellocareSDK.zip"}
+s.source           = { :http => "https://github.com/hellocaredev/direct-sdk-ios/releases/download/1.0.3/HellocareSDK.zip"}
 
 s.ios.vendored_frameworks = 'HellocareSDK.framework'
 
